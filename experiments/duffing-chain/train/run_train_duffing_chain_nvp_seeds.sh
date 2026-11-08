@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+source "$(dirname "${BASH_SOURCE[0]}")/../../env.sh"
+
+DATASET="$DATA_DIR/duffing-chain/duffing-chain-N8-5ksamp-0.1beta-0.01eps.h5"
+TRAIN_SCRIPT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)/train_duffing_chain.py"
+RUN_NAME="duffing-chain-nvp-best"
+
+for SEED in 1 2 3 4 5 6; do
+    OUTPUT_DIR="$RUNS_DIR/${RUN_NAME}-seed${SEED}"
+    mkdir -p "$OUTPUT_DIR"
+    python "$TRAIN_SCRIPT" \
+        --dataset "$DATASET" \
+        --output-dir "$OUTPUT_DIR" \
+        --model-type nvp \
+        --num-layers 10 \
+        --nvp-num-hidden 2 \
+        --hidden-size 128 \
+        --batch-size 32 \
+        --n-systems 4096 \
+        --val-n-systems 5000 \
+        --max-time 31.4159265 \
+        --epochs 1500 \
+        --lr 0.0029909033374413774 \
+        --num-restarts 0 \
+        --train-fraction 0.9 \
+        --warmup-steps 50 \
+        --nan-patience 3 \
+        --weight-decay 0.0 \
+        --seed $SEED \
+        --optimizer adamw \
+        --device cuda \
+        --mlflow-uri "$MLFLOW_URI" \
+        --experiment-name "${RUN_NAME}"
+done

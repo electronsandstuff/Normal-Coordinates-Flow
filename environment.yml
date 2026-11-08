@@ -1,0 +1,22 @@
+name: normal-coordinates-flow
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - h5py=3.16
+  - ipykernel
+  - matplotlib=3.10
+  - mlflow=3.11
+  - numpy=2.4
+  - openpmd-beamphysics=0.14
+  - pandas=2.3
+  - pillow=12.2
+  - pip
+  - pre-commit
+  - pydantic=2.13
+  - scipy=1.17
+  - sqlalchemy=2.0
+  - tqdm
+  - pip:
+    - torch==2.10.0
+    - -e .

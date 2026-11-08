@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "normal-coordinates-flow"
+version = "0.1.0"
+description = "Symplectic normal coordinates flow for generative modeling of Hamiltonian systems"
+readme = "README.md"
+requires-python = ">=3.12"
+license = "BSD-3-Clause"
+license-files = ["LICENSE"]
+authors = [
+  { name = "Christopher M. Pierce", email = "contact@chris-pierce.com" },
+]
+dependencies = [
+  "h5py",
+  "matplotlib",
+  "mlflow",
+  "numpy",
+  "openpmd-beamphysics",
+  "pandas",
+  "pillow",
+  "pydantic",
+  "scipy",
+  "sqlalchemy",
+  "torch",
+  "tqdm",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

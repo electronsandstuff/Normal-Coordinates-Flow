@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data and outputs
+runs/
+mlflow.db
+mlartifacts/
+mlruns/
+figures/output/

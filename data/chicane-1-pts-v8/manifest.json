@@ -1,0 +1,647 @@
+{
+  "particles": [
+    {
+      "path": "particles/beginning.h5",
+      "s_position": 0.0,
+      "element_name": "beginning"
+    },
+    {
+      "path": "particles/OUT1.h5",
+      "s_position": 0.133858267716536,
+      "element_name": "OUT1"
+    },
+    {
+      "path": "particles/OUT2.h5",
+      "s_position": 0.267716535433071,
+      "element_name": "OUT2"
+    },
+    {
+      "path": "particles/OUT3.h5",
+      "s_position": 0.401574803149606,
+      "element_name": "OUT3"
+    },
+    {
+      "path": "particles/OUT4.h5",
+      "s_position": 0.535433070866142,
+      "element_name": "OUT4"
+    },
+    {
+      "path": "particles/OUT5.h5",
+      "s_position": 0.669291338582677,
+      "element_name": "OUT5"
+    },
+    {
+      "path": "particles/OUT6.h5",
+      "s_position": 0.803149606299213,
+      "element_name": "OUT6"
+    },
+    {
+      "path": "particles/OUT7.h5",
+      "s_position": 0.937007874015748,
+      "element_name": "OUT7"
+    },
+    {
+      "path": "particles/OUT8.h5",
+      "s_position": 1.07086614173228,
+      "element_name": "OUT8"
+    },
+    {
+      "path": "particles/OUT9.h5",
+      "s_position": 1.20472440944882,
+      "element_name": "OUT9"
+    },
+    {
+      "path": "particles/OUT10.h5",
+      "s_position": 1.33858267716535,
+      "element_name": "OUT10"
+    },
+    {
+      "path": "particles/OUT11.h5",
+      "s_position": 1.47244094488189,
+      "element_name": "OUT11"
+    },
+    {
+      "path": "particles/OUT12.h5",
+      "s_position": 1.60629921259843,
+      "element_name": "OUT12"
+    },
+    {
+      "path": "particles/OUT13.h5",
+      "s_position": 1.74015748031496,
+      "element_name": "OUT13"
+    },
+    {
+      "path": "particles/OUT14.h5",
+      "s_position": 1.8740157480315,
+      "element_name": "OUT14"
+    },
+    {
+      "path": "particles/OUT15.h5",
+      "s_position": 2.00787401574803,
+      "element_name": "OUT15"
+    },
+    {
+      "path": "particles/OUT16.h5",
+      "s_position": 2.14173228346457,
+      "element_name": "OUT16"
+    },
+    {
+      "path": "particles/OUT17.h5",
+      "s_position": 2.2755905511811,
+      "element_name": "OUT17"
+    },
+    {
+      "path": "particles/OUT18.h5",
+      "s_position": 2.40944881889764,
+      "element_name": "OUT18"
+    },
+    {
+      "path": "particles/OUT19.h5",
+      "s_position": 2.54330708661417,
+      "element_name": "OUT19"
+    },
+    {
+      "path": "particles/OUT20.h5",
+      "s_position": 2.67716535433071,
+      "element_name": "OUT20"
+    },
+    {
+      "path": "particles/OUT21.h5",
+      "s_position": 2.81102362204724,
+      "element_name": "OUT21"
+    },
+    {
+      "path": "particles/OUT22.h5",
+      "s_position": 2.94488188976378,
+      "element_name": "OUT22"
+    },
+    {
+      "path": "particles/OUT23.h5",
+      "s_position": 3.07874015748032,
+      "element_name": "OUT23"
+    },
+    {
+      "path": "particles/OUT24.h5",
+      "s_position": 3.21259842519685,
+      "element_name": "OUT24"
+    },
+    {
+      "path": "particles/OUT25.h5",
+      "s_position": 3.34645669291339,
+      "element_name": "OUT25"
+    },
+    {
+      "path": "particles/OUT26.h5",
+      "s_position": 3.48031496062992,
+      "element_name": "OUT26"
+    },
+    {
+      "path": "particles/OUT27.h5",
+      "s_position": 3.61417322834646,
+      "element_name": "OUT27"
+    },
+    {
+      "path": "particles/OUT28.h5",
+      "s_position": 3.74803149606299,
+      "element_name": "OUT28"
+    },
+    {
+      "path": "particles/OUT29.h5",
+      "s_position": 3.88188976377953,
+      "element_name": "OUT29"
+    },
+    {
+      "path": "particles/OUT30.h5",
+      "s_position": 4.01574803149606,
+      "element_name": "OUT30"
+    },
+    {
+      "path": "particles/OUT31.h5",
+      "s_position": 4.1496062992126,
+      "element_name": "OUT31"
+    },
+    {
+      "path": "particles/OUT32.h5",
+      "s_position": 4.28346456692913,
+      "element_name": "OUT32"
+    },
+    {
+      "path": "particles/OUT33.h5",
+      "s_position": 4.41732283464567,
+      "element_name": "OUT33"
+    },
+    {
+      "path": "particles/OUT34.h5",
+      "s_position": 4.55118110236221,
+      "element_name": "OUT34"
+    },
+    {
+      "path": "particles/OUT35.h5",
+      "s_position": 4.68503937007874,
+      "element_name": "OUT35"
+    },
+    {
+      "path": "particles/OUT36.h5",
+      "s_position": 4.81889763779528,
+      "element_name": "OUT36"
+    },
+    {
+      "path": "particles/OUT37.h5",
+      "s_position": 4.95275590551181,
+      "element_name": "OUT37"
+    },
+    {
+      "path": "particles/OUT38.h5",
+      "s_position": 5.08661417322835,
+      "element_name": "OUT38"
+    },
+    {
+      "path": "particles/OUT39.h5",
+      "s_position": 5.22047244094488,
+      "element_name": "OUT39"
+    },
+    {
+      "path": "particles/OUT40.h5",
+      "s_position": 5.35433070866142,
+      "element_name": "OUT40"
+    },
+    {
+      "path": "particles/OUT41.h5",
+      "s_position": 5.48818897637795,
+      "element_name": "OUT41"
+    },
+    {
+      "path": "particles/OUT42.h5",
+      "s_position": 5.62204724409449,
+      "element_name": "OUT42"
+    },
+    {
+      "path": "particles/OUT43.h5",
+      "s_position": 5.75590551181102,
+      "element_name": "OUT43"
+    },
+    {
+      "path": "particles/OUT44.h5",
+      "s_position": 5.88976377952756,
+      "element_name": "OUT44"
+    },
+    {
+      "path": "particles/OUT45.h5",
+      "s_position": 6.0236220472441,
+      "element_name": "OUT45"
+    },
+    {
+      "path": "particles/OUT46.h5",
+      "s_position": 6.15748031496063,
+      "element_name": "OUT46"
+    },
+    {
+      "path": "particles/OUT47.h5",
+      "s_position": 6.29133858267717,
+      "element_name": "OUT47"
+    },
+    {
+      "path": "particles/OUT48.h5",
+      "s_position": 6.4251968503937,
+      "element_name": "OUT48"
+    },
+    {
+      "path": "particles/OUT49.h5",
+      "s_position": 6.55905511811024,
+      "element_name": "OUT49"
+    },
+    {
+      "path": "particles/OUT50.h5",
+      "s_position": 6.69291338582677,
+      "element_name": "OUT50"
+    },
+    {
+      "path": "particles/OUT51.h5",
+      "s_position": 6.82677165354331,
+      "element_name": "OUT51"
+    },
+    {
+      "path": "particles/OUT52.h5",
+      "s_position": 6.96062992125984,
+      "element_name": "OUT52"
+    },
+    {
+      "path": "particles/OUT53.h5",
+      "s_position": 7.09448818897638,
+      "element_name": "OUT53"
+    },
+    {
+      "path": "particles/OUT54.h5",
+      "s_position": 7.22834645669291,
+      "element_name": "OUT54"
+    },
+    {
+      "path": "particles/OUT55.h5",
+      "s_position": 7.36220472440945,
+      "element_name": "OUT55"
+    },
+    {
+      "path": "particles/OUT56.h5",
+      "s_position": 7.49606299212599,
+      "element_name": "OUT56"
+    },
+    {
+      "path": "particles/OUT57.h5",
+      "s_position": 7.62992125984252,
+      "element_name": "OUT57"
+    },
+    {
+      "path": "particles/OUT58.h5",
+      "s_position": 7.76377952755906,
+      "element_name": "OUT58"
+    },
+    {
+      "path": "particles/OUT59.h5",
+      "s_position": 7.89763779527559,
+      "element_name": "OUT59"
+    },
+    {
+      "path": "particles/OUT60.h5",
+      "s_position": 8.03149606299213,
+      "element_name": "OUT60"
+    },
+    {
+      "path": "particles/OUT61.h5",
+      "s_position": 8.16535433070866,
+      "element_name": "OUT61"
+    },
+    {
+      "path": "particles/OUT62.h5",
+      "s_position": 8.2992125984252,
+      "element_name": "OUT62"
+    },
+    {
+      "path": "particles/OUT63.h5",
+      "s_position": 8.43307086614173,
+      "element_name": "OUT63"
+    },
+    {
+      "path": "particles/OUT64.h5",
+      "s_position": 8.56692913385827,
+      "element_name": "OUT64"
+    },
+    {
+      "path": "particles/OUT65.h5",
+      "s_position": 8.7007874015748,
+      "element_name": "OUT65"
+    },
+    {
+      "path": "particles/OUT66.h5",
+      "s_position": 8.83464566929134,
+      "element_name": "OUT66"
+    },
+    {
+      "path": "particles/OUT67.h5",
+      "s_position": 8.96850393700787,
+      "element_name": "OUT67"
+    },
+    {
+      "path": "particles/OUT68.h5",
+      "s_position": 9.10236220472441,
+      "element_name": "OUT68"
+    },
+    {
+      "path": "particles/OUT69.h5",
+      "s_position": 9.23622047244095,
+      "element_name": "OUT69"
+    },
+    {
+      "path": "particles/OUT70.h5",
+      "s_position": 9.37007874015748,
+      "element_name": "OUT70"
+    },
+    {
+      "path": "particles/OUT71.h5",
+      "s_position": 9.50393700787402,
+      "element_name": "OUT71"
+    },
+    {
+      "path": "particles/OUT72.h5",
+      "s_position": 9.63779527559055,
+      "element_name": "OUT72"
+    },
+    {
+      "path": "particles/OUT73.h5",
+      "s_position": 9.77165354330709,
+      "element_name": "OUT73"
+    },
+    {
+      "path": "particles/OUT74.h5",
+      "s_position": 9.90551181102362,
+      "element_name": "OUT74"
+    },
+    {
+      "path": "particles/OUT75.h5",
+      "s_position": 10.0393700787402,
+      "element_name": "OUT75"
+    },
+    {
+      "path": "particles/OUT76.h5",
+      "s_position": 10.1732283464567,
+      "element_name": "OUT76"
+    },
+    {
+      "path": "particles/OUT77.h5",
+      "s_position": 10.3070866141732,
+      "element_name": "OUT77"
+    },
+    {
+      "path": "particles/OUT78.h5",
+      "s_position": 10.4409448818898,
+      "element_name": "OUT78"
+    },
+    {
+      "path": "particles/OUT79.h5",
+      "s_position": 10.5748031496063,
+      "element_name": "OUT79"
+    },
+    {
+      "path": "particles/OUT80.h5",
+      "s_position": 10.7086614173228,
+      "element_name": "OUT80"
+    },
+    {
+      "path": "particles/OUT81.h5",
+      "s_position": 10.8425196850394,
+      "element_name": "OUT81"
+    },
+    {
+      "path": "particles/OUT82.h5",
+      "s_position": 10.9763779527559,
+      "element_name": "OUT82"
+    },
+    {
+      "path": "particles/OUT83.h5",
+      "s_position": 11.1102362204724,
+      "element_name": "OUT83"
+    },
+    {
+      "path": "particles/OUT84.h5",
+      "s_position": 11.244094488189,
+      "element_name": "OUT84"
+    },
+    {
+      "path": "particles/OUT85.h5",
+      "s_position": 11.3779527559055,
+      "element_name": "OUT85"
+    },
+    {
+      "path": "particles/OUT86.h5",
+      "s_position": 11.511811023622,
+      "element_name": "OUT86"
+    },
+    {
+      "path": "particles/OUT87.h5",
+      "s_position": 11.6456692913386,
+      "element_name": "OUT87"
+    },
+    {
+      "path": "particles/OUT88.h5",
+      "s_position": 11.7795275590551,
+      "element_name": "OUT88"
+    },
+    {
+      "path": "particles/OUT89.h5",
+      "s_position": 11.9133858267717,
+      "element_name": "OUT89"
+    },
+    {
+      "path": "particles/OUT90.h5",
+      "s_position": 12.0472440944882,
+      "element_name": "OUT90"
+    },
+    {
+      "path": "particles/OUT91.h5",
+      "s_position": 12.1811023622047,
+      "element_name": "OUT91"
+    },
+    {
+      "path": "particles/OUT92.h5",
+      "s_position": 12.3149606299213,
+      "element_name": "OUT92"
+    },
+    {
+      "path": "particles/OUT93.h5",
+      "s_position": 12.4488188976378,
+      "element_name": "OUT93"
+    },
+    {
+      "path": "particles/OUT94.h5",
+      "s_position": 12.5826771653543,
+      "element_name": "OUT94"
+    },
+    {
+      "path": "particles/OUT95.h5",
+      "s_position": 12.7165354330709,
+      "element_name": "OUT95"
+    },
+    {
+      "path": "particles/OUT96.h5",
+      "s_position": 12.8503937007874,
+      "element_name": "OUT96"
+    },
+    {
+      "path": "particles/OUT97.h5",
+      "s_position": 12.9842519685039,
+      "element_name": "OUT97"
+    },
+    {
+      "path": "particles/OUT98.h5",
+      "s_position": 13.1181102362205,
+      "element_name": "OUT98"
+    },
+    {
+      "path": "particles/OUT99.h5",
+      "s_position": 13.251968503937,
+      "element_name": "OUT99"
+    },
+    {
+      "path": "particles/OUT100.h5",
+      "s_position": 13.3858267716535,
+      "element_name": "OUT100"
+    },
+    {
+      "path": "particles/OUT101.h5",
+      "s_position": 13.5196850393701,
+      "element_name": "OUT101"
+    },
+    {
+      "path": "particles/OUT102.h5",
+      "s_position": 13.6535433070866,
+      "element_name": "OUT102"
+    },
+    {
+      "path": "particles/OUT103.h5",
+      "s_position": 13.7874015748031,
+      "element_name": "OUT103"
+    },
+    {
+      "path": "particles/OUT104.h5",
+      "s_position": 13.9212598425197,
+      "element_name": "OUT104"
+    },
+    {
+      "path": "particles/OUT105.h5",
+      "s_position": 14.0551181102362,
+      "element_name": "OUT105"
+    },
+    {
+      "path": "particles/OUT106.h5",
+      "s_position": 14.1889763779528,
+      "element_name": "OUT106"
+    },
+    {
+      "path": "particles/OUT107.h5",
+      "s_position": 14.3228346456693,
+      "element_name": "OUT107"
+    },
+    {
+      "path": "particles/OUT108.h5",
+      "s_position": 14.4566929133858,
+      "element_name": "OUT108"
+    },
+    {
+      "path": "particles/OUT109.h5",
+      "s_position": 14.5905511811024,
+      "element_name": "OUT109"
+    },
+    {
+      "path": "particles/OUT110.h5",
+      "s_position": 14.7244094488189,
+      "element_name": "OUT110"
+    },
+    {
+      "path": "particles/OUT111.h5",
+      "s_position": 14.8582677165354,
+      "element_name": "OUT111"
+    },
+    {
+      "path": "particles/OUT112.h5",
+      "s_position": 14.992125984252,
+      "element_name": "OUT112"
+    },
+    {
+      "path": "particles/OUT113.h5",
+      "s_position": 15.1259842519685,
+      "element_name": "OUT113"
+    },
+    {
+      "path": "particles/OUT114.h5",
+      "s_position": 15.259842519685,
+      "element_name": "OUT114"
+    },
+    {
+      "path": "particles/OUT115.h5",
+      "s_position": 15.3937007874016,
+      "element_name": "OUT115"
+    },
+    {
+      "path": "particles/OUT116.h5",
+      "s_position": 15.5275590551181,
+      "element_name": "OUT116"
+    },
+    {
+      "path": "particles/OUT117.h5",
+      "s_position": 15.6614173228346,
+      "element_name": "OUT117"
+    },
+    {
+      "path": "particles/OUT118.h5",
+      "s_position": 15.7952755905512,
+      "element_name": "OUT118"
+    },
+    {
+      "path": "particles/OUT119.h5",
+      "s_position": 15.9291338582677,
+      "element_name": "OUT119"
+    },
+    {
+      "path": "particles/OUT120.h5",
+      "s_position": 16.0629921259843,
+      "element_name": "OUT120"
+    },
+    {
+      "path": "particles/OUT121.h5",
+      "s_position": 16.1968503937008,
+      "element_name": "OUT121"
+    },
+    {
+      "path": "particles/OUT122.h5",
+      "s_position": 16.3307086614173,
+      "element_name": "OUT122"
+    },
+    {
+      "path": "particles/OUT123.h5",
+      "s_position": 16.4645669291339,
+      "element_name": "OUT123"
+    },
+    {
+      "path": "particles/OUT124.h5",
+      "s_position": 16.5984251968504,
+      "element_name": "OUT124"
+    },
+    {
+      "path": "particles/OUT125.h5",
+      "s_position": 16.7322834645669,
+      "element_name": "OUT125"
+    },
+    {
+      "path": "particles/OUT126.h5",
+      "s_position": 16.8661417322835,
+      "element_name": "OUT126"
+    },
+    {
+      "path": "particles/OUT127.h5",
+      "s_position": 17.0,
+      "element_name": "OUT127"
+    }
+  ],
+  "start_time": "2026-05-05T01:47:40.117169Z",
+  "end_time": "2026-05-05T01:47:44.142191Z",
+  "comment": ""
+}
